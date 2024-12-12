@@ -60,12 +60,13 @@ function printBanner() {
 - Telegram: @savanop
 - channel: https://t.me/savanop121
 
-- Note: If you encounter the issue "URL not found"
+- Note: If you encounter the issue \\"URL not found\\"
   kindly ignore it.  
 - PX Points will be added to your account within 20 seconds.
 
 -------------------------------------------------
 ";
+    
     echo printColored($banner, $green);
 }
 
